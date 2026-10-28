@@ -1,11 +1,11 @@
 {
-  "version": "2.3.0",
-  "versionCode": 230,
+  "version": "2.4.0",
+  "versionCode": 240,
   "releaseDate": "2026-10-28",
   "minAppVersion": "2.0.0",
   "changelog": [
-    "Pantalla activa en primer plano sin bloqueo",
-    "Control tactil 3D giroscopico para rotar y mover el atomo cuantico"
+    "Permisos de microfono y escucha vocal estable en Android",
+    "Concesion de permisos WebChromeClient"
   ],
   "apkName": "PROMETEO_Android.apk",
   "githubRepo": "ChrisMG89/prometeo-releases",
