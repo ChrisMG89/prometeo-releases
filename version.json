@@ -1,11 +1,11 @@
 {
-  "version": "2.2.0",
-  "versionCode": 220,
+  "version": "2.3.0",
+  "versionCode": 230,
   "releaseDate": "2026-10-28",
   "minAppVersion": "2.0.0",
   "changelog": [
-    "Ventana de Ágora Socrática flotante y arrastrable",
-    "Sincronización de actualizaciones automáticas públicas"
+    "Pantalla activa en primer plano sin bloqueo",
+    "Control tactil 3D giroscopico para rotar y mover el atomo cuantico"
   ],
   "apkName": "PROMETEO_Android.apk",
   "githubRepo": "ChrisMG89/prometeo-releases",
