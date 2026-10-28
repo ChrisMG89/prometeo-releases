@@ -1,0 +1,13 @@
+{
+  "version": "2.2.0",
+  "versionCode": 220,
+  "releaseDate": "2026-10-28",
+  "minAppVersion": "2.0.0",
+  "changelog": [
+    "Ventana de Ágora Socrática flotante y arrastrable",
+    "Sincronización de actualizaciones automáticas públicas"
+  ],
+  "apkName": "PROMETEO_Android.apk",
+  "githubRepo": "ChrisMG89/prometeo-releases",
+  "githubReleaseUrl": "https://github.com/ChrisMG89/prometeo-releases/releases/latest/download/PROMETEO_Android.apk"
+}
