@@ -1,13 +1,14 @@
 {
-  "version": "2.4.0",
-  "versionCode": 240,
-  "releaseDate": "2026-10-28",
+  "version": "2.5.0",
+  "versionCode": 250,
+  "releaseDate": "2026-10-29",
   "minAppVersion": "2.0.0",
   "changelog": [
-    "Permisos de microfono y escucha vocal estable en Android",
-    "Concesion de permisos WebChromeClient"
+    "Nueva Sede Tactica 3D con 20 minifiguras LEGO, pathfinding A* y retratos 3D en vivo",
+    "Coreografia de misiones y vida autonoma en tiempo real",
+    "Autodescubrimiento automatico de IP LAN (192.168.0.173) y descarga directa OTA"
   ],
   "apkName": "PROMETEO_Android.apk",
   "githubRepo": "ChrisMG89/prometeo-releases",
-  "githubReleaseUrl": "https://github.com/ChrisMG89/prometeo-releases/releases/latest/download/PROMETEO_Android.apk"
+  "githubReleaseUrl": "https://github.com/ChrisMG89/prometeo-releases/raw/main/PROMETEO_Android.apk"
 }
