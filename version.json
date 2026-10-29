@@ -1,12 +1,12 @@
 {
-  "version": "2.5.0",
-  "versionCode": 250,
+  "version": "2.6.0",
+  "versionCode": 260,
   "releaseDate": "2026-10-29",
   "minAppVersion": "2.0.0",
   "changelog": [
-    "Nueva Sede Tactica 3D con 20 minifiguras LEGO, pathfinding A* y retratos 3D en vivo",
-    "Coreografia de misiones y vida autonoma en tiempo real",
-    "Autodescubrimiento automatico de IP LAN (192.168.0.173) y descarga directa OTA"
+    "Renderizado 3D directo optimizado para Android y pantallas verticales (sin pantalla blanca ni perdida WebGL)",
+    "Retratos LEGO 2D Canvas de alta velocidad (0 contextos WebGL extra al abrir tarjetas)",
+    "IP fija 192.168.0.173 preconfigurada y diseno movil adaptable en Sede 3D"
   ],
   "apkName": "PROMETEO_Android.apk",
   "githubRepo": "ChrisMG89/prometeo-releases",
