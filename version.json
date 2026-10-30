@@ -1,13 +1,11 @@
 {
-  "version": "3.3.0",
-  "versionCode": 330,
+  "version": "3.4.0",
+  "versionCode": 340,
   "releaseDate": "2026-10-30",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "changelog": [
-    "Fix responsive vertical movil",
-    "Fix bucle de voz y desbloqueo WebAudio",
-    "Actualizacion integral OTA"
+    "Nueva Sede 3D Multi-Sede: The Racer's Edge (Taller A todo gas con Supra Mk4 2JZ y Skyline R34 Dyno) y alternancia con Sede Corporativa"
   ]
 }
