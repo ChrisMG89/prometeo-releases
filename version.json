@@ -1,14 +1,13 @@
 {
-  "version": "2.9.0",
-  "versionCode": 290,
+  "version": "3.0.0",
+  "versionCode": 300,
   "releaseDate": "2026-10-30",
-  "minAppVersion": "2.0.0",
-  "changelog": [
-    "Fijacion inteligente de la pildora HUD (nunca se sale de los bordes al girar la pantalla ni queda oculta tras la Sede 3D)",
-    "Rotacion tactil 360 grados con 1 y 2 dedos en la Sede 3D",
-    "Descarga e instalacion OTA 100% integrada dentro de la app"
-  ],
-  "apkName": "PROMETEO_Android.apk",
+  "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
-  "githubReleaseUrl": "https://github.com/ChrisMG89/prometeo-releases/raw/main/PROMETEO_Android.apk"
+  "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
+  "changelog": [
+    "Botón Minimizar / Maximizar integrado en la píldora HUD (colapsa todos los botones a una mini-cápsula flotante con un toque)",
+    "Sede 3D: Desplazamiento (Pan) y Giro 360° simultáneos con selector rápido [Mover / Girar 360°] y cruceta direccional táctil",
+    "Auto-comprobación de actualizaciones OTA al volver a la app desde segundo plano sin necesidad de cerrarla"
+  ]
 }
