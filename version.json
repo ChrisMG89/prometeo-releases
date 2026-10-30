@@ -1,13 +1,13 @@
 {
-  "version": "3.0.0",
-  "versionCode": 300,
+  "version": "3.1.0",
+  "versionCode": 310,
   "releaseDate": "2026-10-30",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "changelog": [
-    "Botón Minimizar / Maximizar integrado en la píldora HUD (colapsa todos los botones a una mini-cápsula flotante con un toque)",
-    "Sede 3D: Desplazamiento (Pan) y Giro 360° simultáneos con selector rápido [Mover / Girar 360°] y cruceta direccional táctil",
-    "Auto-comprobación de actualizaciones OTA al volver a la app desde segundo plano sin necesidad de cerrarla"
+    "Sede 3D: Límite de zoom ampliado casi 3x (hasta 16x) para inspeccionar de cerca cada muñeco LEGO y escritorio",
+    "Minifiguras LEGO: Manos clásicas en pinza C más grandes y visibles sobre los teclados y en los retratos de perfil",
+    "Botón Minimizar / Maximizar en la píldora HUD y selector táctil [Mover / Girar 360°]"
   ]
 }
