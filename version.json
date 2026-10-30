@@ -1,13 +1,13 @@
 {
-  "version": "3.1.0",
-  "versionCode": 310,
+  "version": "3.2.0",
+  "versionCode": 320,
   "releaseDate": "2026-10-30",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "changelog": [
-    "Sede 3D: Límite de zoom ampliado casi 3x (hasta 16x) para inspeccionar de cerca cada muñeco LEGO y escritorio",
-    "Minifiguras LEGO: Manos clásicas en pinza C más grandes y visibles sobre los teclados y en los retratos de perfil",
-    "Botón Minimizar / Maximizar en la píldora HUD y selector táctil [Mover / Girar 360°]"
+    "Acceso Remoto 5G / Fuera de Casa 100% automático mediante Túnel Cloudflare (HTTPS/WSS)",
+    "Conmutación inteligente Casa (Wi-Fi 192.168.0.173) <-> Calle (5G) sin configurar ni instalar VPN en el móvil",
+    "Selector rápido [Casa (Wi-Fi) / Calle 5G (Auto)] en el panel de Red de la píldora HUD"
   ]
 }
