@@ -1,12 +1,12 @@
 {
-  "version": "2.7.0",
-  "versionCode": 270,
+  "version": "2.8.0",
+  "versionCode": 280,
   "releaseDate": "2026-10-30",
   "minAppVersion": "2.0.0",
   "changelog": [
-    "Descarga e instalacion OTA 100% integrada dentro de la app con barra de progreso en vivo (sin abrir el navegador)",
-    "Optimizacion extrema de memoria GPU en Sede 3D (geometrias compartidas + MeshLambert en movil + motor 2D isometrico de respaldo)",
-    "Previene el cierre del proceso WebGL de Android WebView (recuadro blanco)"
+    "Rotacion tactil 360 grados con los dedos en la Sede 3D (1 dedo gira 360 e inclina, 2 dedos hacen zoom, desplazan y rotan)",
+    "Descarga e instalacion OTA 100% integrada dentro de la app con barra de progreso en vivo",
+    "Optimizacion extrema de memoria GPU en Sede 3D para Android"
   ],
   "apkName": "PROMETEO_Android.apk",
   "githubRepo": "ChrisMG89/prometeo-releases",
