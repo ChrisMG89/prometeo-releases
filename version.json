@@ -1,15 +1,13 @@
 {
-  "version": "3.2.8",
-  "versionCode": 328,
+  "version": "3.2.9",
+  "versionCode": 329,
   "releaseDate": "2026-10-30",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "changelog": [
-    "Máquina de estados de voz LISTENING/PROCESSING/SPEAKING",
-    "Corrección bucle infinito escucha en móvil",
-    "AudioContext.resume() garantizado",
-    "Bloqueo de errores fatales de micrófono",
-    "Timeout de seguridad 12s si backend sin respuesta"
+    "Fix bucle voz: re-bloqueo mic si audio llega tras timeout",
+    "AudioContext.resume() solo en gesto real de usuario",
+    "getUserMedia restaurado con stream liberado inmediatamente"
   ]
 }
