@@ -1,14 +1,13 @@
-﻿{
-    "version":  "3.2.6",
-    "versionCode":  326,
-    "releaseDate":  "2026-10-30",
-    "mandatory":  false,
-    "githubRepo":  "ChrisMG89/prometeo-releases",
-    "downloadUrl":  "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-    "changelog":  [
-                      "God\u0027s Eye CCTV: Restaurado el cono de visión direccional en el suelo (abanico FOV + flecha) que muestra hacia dónde apunta cada cámara",
-                      "Frustum 3D y fotograma flotante orientados según el rumbo real de la cámara",
-                      "Botones 📐 FOV Projection Cone y 🔵 Coverage Radius ahora funcionales en el mapa",
-                      "Toque táctil mejorado: seleccionar cámaras, vuelos y satélites con el dedo es mucho más preciso"
-                  ]
+{
+  "version": "3.2.7",
+  "versionCode": 327,
+  "releaseDate": "2026-10-30",
+  "mandatory": false,
+  "githubRepo": "ChrisMG89/prometeo-releases",
+  "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
+  "changelog": [
+    "Centro de Operaciones táctil y responsive para móvil vertical",
+    "Audio neural Web Audio API inmune a bloqueos de reproducción en 5G",
+    "Protocolo de seguridad y biometría de voz"
+  ]
 }
