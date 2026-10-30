@@ -1,13 +1,13 @@
 {
-  "version": "3.2.4",
-  "versionCode": 324,
+  "version": "3.2.5",
+  "versionCode": 325,
   "releaseDate": "2026-10-30",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "changelog": [
-    "Globo 3D (Tactical Data Layers + CCTV Module): Selector completo de los 5 países (ES, UK, US, FI, SG + ALL) en ambos menús",
-    "Conectoma 3D: Selección táctil magnética en pantalla + halo 3D pulsante al tocar cualquier neurona",
-    "Actualizador OTA: Comparación estricta de versión superior y descarga en 5G directa desde el CDN de GitHub"
+    "Globo 3D (CCTV EE.UU. y Global): Rango de visibilidad de iconos ampliado a 20.000 km y altitud óptima (950 km) para las 2.981 cámaras de EE.UU.",
+    "Selector completo de 5 países (ES, UK, US, FI, SG + ALL) sincronizado en ambos paneles tácticos",
+    "Conectoma 3D: Selección táctil magnética en pantalla + halo 3D pulsante"
   ]
 }
