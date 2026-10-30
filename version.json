@@ -1,13 +1,15 @@
 {
-  "version": "3.2.7",
-  "versionCode": 327,
+  "version": "3.2.8",
+  "versionCode": 328,
   "releaseDate": "2026-10-30",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "changelog": [
-    "Centro de Operaciones táctil y responsive para móvil vertical",
-    "Audio neural Web Audio API inmune a bloqueos de reproducción en 5G",
-    "Protocolo de seguridad y biometría de voz"
+    "Máquina de estados de voz LISTENING/PROCESSING/SPEAKING",
+    "Corrección bucle infinito escucha en móvil",
+    "AudioContext.resume() garantizado",
+    "Bloqueo de errores fatales de micrófono",
+    "Timeout de seguridad 12s si backend sin respuesta"
   ]
 }
