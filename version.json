@@ -1,11 +1,11 @@
 {
-  "version": "3.4.1",
-  "versionCode": 341,
+  "version": "3.4.2",
+  "versionCode": 342,
   "releaseDate": "2026-10-30",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "changelog": [
-    "Fix pantalla negra Sede Taller: Camara ortografica isometrica adaptativa movil, ResizeObserver y luces optimizadas"
+    "Taller Fast & Furious: Suelo iluminado paddock, paredes de cristal transparentes 360, vinilos legendarios Gladiator y Bayside Blue, patrocinadores e intercoolers GReddy/HKS"
   ]
 }
