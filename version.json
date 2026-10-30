@@ -1,13 +1,13 @@
 {
-  "version": "3.2.0",
-  "versionCode": 320,
+  "version": "3.2.1",
+  "versionCode": 321,
   "releaseDate": "2026-10-30",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "changelog": [
-    "Acceso Remoto 5G / Fuera de Casa 100% automático mediante Túnel Cloudflare (HTTPS/WSS)",
-    "Conmutación inteligente Casa (Wi-Fi 192.168.0.173) <-> Calle (5G) sin configurar ni instalar VPN en el móvil",
-    "Selector rápido [Casa (Wi-Fi) / Calle 5G (Auto)] en el panel de Red de la píldora HUD"
+    "Fix CORS 403 y bloqueo de concurrencia al descubrir el túnel 5G desde Android WebView",
+    "Watchdog de 3.5s en WebSocket para no quedarse esperando la IP local al estar en 5G",
+    "Botón [Calle / 5G (Auto)] con activación directa instantánea del túnel Cloudflare"
   ]
 }
