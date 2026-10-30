@@ -1,12 +1,12 @@
 {
-  "version": "2.8.0",
-  "versionCode": 280,
+  "version": "2.9.0",
+  "versionCode": 290,
   "releaseDate": "2026-10-30",
   "minAppVersion": "2.0.0",
   "changelog": [
-    "Rotacion tactil 360 grados con los dedos en la Sede 3D (1 dedo gira 360 e inclina, 2 dedos hacen zoom, desplazan y rotan)",
-    "Descarga e instalacion OTA 100% integrada dentro de la app con barra de progreso en vivo",
-    "Optimizacion extrema de memoria GPU en Sede 3D para Android"
+    "Fijacion inteligente de la pildora HUD (nunca se sale de los bordes al girar la pantalla ni queda oculta tras la Sede 3D)",
+    "Rotacion tactil 360 grados con 1 y 2 dedos en la Sede 3D",
+    "Descarga e instalacion OTA 100% integrada dentro de la app"
   ],
   "apkName": "PROMETEO_Android.apk",
   "githubRepo": "ChrisMG89/prometeo-releases",
