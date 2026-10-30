@@ -1,12 +1,12 @@
 {
-  "version": "2.6.0",
-  "versionCode": 260,
-  "releaseDate": "2026-10-29",
+  "version": "2.7.0",
+  "versionCode": 270,
+  "releaseDate": "2026-10-30",
   "minAppVersion": "2.0.0",
   "changelog": [
-    "Renderizado 3D directo optimizado para Android y pantallas verticales (sin pantalla blanca ni perdida WebGL)",
-    "Retratos LEGO 2D Canvas de alta velocidad (0 contextos WebGL extra al abrir tarjetas)",
-    "IP fija 192.168.0.173 preconfigurada y diseno movil adaptable en Sede 3D"
+    "Descarga e instalacion OTA 100% integrada dentro de la app con barra de progreso en vivo (sin abrir el navegador)",
+    "Optimizacion extrema de memoria GPU en Sede 3D (geometrias compartidas + MeshLambert en movil + motor 2D isometrico de respaldo)",
+    "Previene el cierre del proceso WebGL de Android WebView (recuadro blanco)"
   ],
   "apkName": "PROMETEO_Android.apk",
   "githubRepo": "ChrisMG89/prometeo-releases",
