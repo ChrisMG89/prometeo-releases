@@ -1,14 +1,14 @@
 {
-  "version": "3.5.8",
-  "versionCode": 358,
+  "version": "3.5.9",
+  "versionCode": 359,
   "releaseDate": "2026-11-02",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-  "name": "Prometeo Witch Hat Framing & LEGO ABS Materials Update",
+  "name": "Prometeo Halloween Spiders, Hunting Cat & Slender Witch Hat",
   "changelog": [
-    "Ajuste de encuadre y curvatura gótica del Sombrero de Bruja en el Reactor Cuántico (punta completa visible sin recorte de cámara).",
-    "Eliminada duplicidad de malla previa de sombrero rígido en el núcleo cuántico.",
-    "Fidelidad de materiales LEGO Speed Champions: plástico ABS no metálico (metalness 0.0) y acabado glossy fiel a los sets 76917 (Skyline GT-R) y 77260 (Supra MK4)."
+    "Sombrero de Bruja estilizado y esbelto: altura gótica calibrada (1.74), cono afilado y cámara 3D con encuadre amplio que elimina el efecto aplastado.",
+    "Telarañas góticas en esquinas superiores y arañas colgantes en hilos de seda plateados con patas articuladas oscilantes.",
+    "Comportamiento felino depredador: el gato negro ahora acecha murciélagos, se agazapa con meneo de cola, salta por los aires con zarpas extendidas y se asea con orgullo tras el salto."
   ]
 }
