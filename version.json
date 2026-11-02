@@ -1,14 +1,14 @@
 {
-  "version": "3.6.3",
-  "versionCode": 363,
+  "version": "3.6.4",
+  "versionCode": 364,
   "releaseDate": "2026-11-02",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-  "name": "Prometeo Halloween Dynamic Feline Hunting & Bat Interception Suite",
+  "name": "Prometeo True Autonomous Seasonal Mode & Explicit Theme Cycle Suite",
   "changelog": [
-    "Sistema de Caza Felina Realista: El gato negro ahora calcula con exactitud las trayectorias rasantes y altitud relativa de los murciélagos en móvil y PC.",
-    "Mecánica de Captura y Celebración (Triumph): Al alcanzar al murciélago con sus garras, lo atrapa bajo sus patas jugando con él antes de liberarlo al cielo nocturno.",
-    "Murciélagos Dinámicos con Vuelo Rasante y Picados: Los murciélagos descienden en picado desafiando al felino a saltar y cazar activamente."
+    "Modo Automático Estacional Explícito: Nueva píldora visible en móvil y PC con distintivo '🌐 AUTO · HALLOWEEN' y sincronización en tiempo real.",
+    "Ciclo Completo de Atmósferas: Alternancia clara entre el Modo Automático y cada uno de los temas manuales con retorno transparente a Auto.",
+    "Persistencia Autónoma: El backend y el frontend inician y permanecen en Modo Automático por defecto, adaptándose a cada festividad del calendario."
   ]
 }
