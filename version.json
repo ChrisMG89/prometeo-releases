@@ -1,15 +1,15 @@
 {
-  "version": "3.5.4",
-  "versionCode": 354,
+  "version": "3.5.5",
+  "versionCode": 355,
   "releaseDate": "2026-11-02",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-  "name": "Prometeo HUD & Physics Suite",
+  "name": "Prometeo Dog-Shake Reflex & Halloween Cycle",
   "changelog": [
-    "Físicas reales de cuajado y acumulación de nieve en pantalla (manto inferior, ventisqueros en esquinas y domo sobre el núcleo).",
-    "Centro de Operaciones táctico: fijación contra auto-scroll con min-h-0 y overflow-anchor: none.",
-    "Gorro de terciopelo cuántico: iluminación reforzada y carmesí vivo.",
-    "Taller LEGO: Maestro, Herald y Midas reposicionados sin colisión."
+    "Mecánica canina de sacudida ('dog-shake reflex') en el núcleo y gorro de Navidad ante acumulación máxima de nieve.",
+    "Atenuación suave y progresiva del cuajado de nieve (50% más lento, natural y sin domos 2D invasivos).",
+    "Ciclo dinámico y botón de Halloween (🎃 HALLOWEEN) integrado en selector de atmósfera de la Sede y Servidor.",
+    "Turbulencias eólicas bidireccionales y aleteo natural para hojas de otoño (vórtices senoidales de viento)."
   ]
 }
