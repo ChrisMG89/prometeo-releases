@@ -1,14 +1,14 @@
 {
-  "version": "3.5.9",
-  "versionCode": 359,
+  "version": "3.6.0",
+  "versionCode": 360,
   "releaseDate": "2026-11-02",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-  "name": "Prometeo Halloween Spiders, Hunting Cat & Slender Witch Hat",
+  "name": "Prometeo High-Visibility Black Cat & Halloween Polish",
   "changelog": [
-    "Sombrero de Bruja estilizado y esbelto: altura gótica calibrada (1.74), cono afilado y cámara 3D con encuadre amplio que elimina el efecto aplastado.",
-    "Telarañas góticas en esquinas superiores y arañas colgantes en hilos de seda plateados con patas articuladas oscilantes.",
-    "Comportamiento felino depredador: el gato negro ahora acecha murciélagos, se agazapa con meneo de cola, salta por los aires con zarpas extendidas y se asea con orgullo tras el salto."
+    "Visibilidad total del Gato Negro en PC y Móvil: elevado sobre la barra de navegación (76px en móvil, 32px en PC).",
+    "Silueta felina detallada: pelaje obsidiana con aura de luz lunar violeta (rim lighting), collar de calabaza con cascabel dorado, interior de orejas lavanda y bigotes finos para que no solo se vean los ojos verdes.",
+    "Tamaño escalado (+35%) para máxima presencia y definición en pantalla."
   ]
 }
