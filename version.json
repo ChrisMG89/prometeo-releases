@@ -1,11 +1,14 @@
 {
-  "version": "3.4.2",
-  "versionCode": 342,
-  "releaseDate": "2026-10-30",
+  "version": "3.5.0",
+  "versionCode": 350,
+  "releaseDate": "2026-11-02",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "changelog": [
-    "Taller Fast & Furious: Suelo iluminado paddock, paredes de cristal transparentes 360, vinilos legendarios Gladiator y Bayside Blue, patrocinadores e intercoolers GReddy/HKS"
+    "Lluvia atmosférica cinemática: gotas de agua resbalando por los cristales, vaho y condensación",
+    "Loki y Flo con navegación A* anti-colisión con paredes y cristales",
+    "Coches LEGO Technic #42204 Supra Mk4 y #42210 Skyline R34 reconstruidos longitudinalmente",
+    "Navidad 3D con nieve real Three.js, árbol y muñeco de nieve LEGO"
   ]
 }
