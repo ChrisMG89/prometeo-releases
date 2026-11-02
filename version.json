@@ -1,14 +1,16 @@
 {
-  "version": "3.6.0",
-  "versionCode": 360,
+  "version": "3.6.1",
+  "versionCode": 361,
   "releaseDate": "2026-11-02",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-  "name": "Prometeo High-Visibility Black Cat & Halloween Polish",
+  "name": "Prometeo Squad Seasonal Wardrobes & Costumes Suite",
   "changelog": [
-    "Visibilidad total del Gato Negro en PC y Móvil: elevado sobre la barra de navegación (76px en móvil, 32px en PC).",
-    "Silueta felina detallada: pelaje obsidiana con aura de luz lunar violeta (rim lighting), collar de calabaza con cascabel dorado, interior de orejas lavanda y bigotes finos para que no solo se vean los ojos verdes.",
-    "Tamaño escalado (+35%) para máxima presencia y definición en pantalla."
+    "Vestimentas y Accesorios Temáticos Estacionales para los 20 Agentes (en la Oficina y en el Taller de Coches).",
+    "Halloween: sombreritos de bruja puntiagudos, gorros de calabaza, capas de vampiro, capuchas espectrales y túnicas góticas.",
+    "Navidad: Papá Noel, elfos de Santa, jerseys navideños nórdicos de lana y bufandas abrigadas al cuello.",
+    "Otoño, Verano y Primavera: gabardinas con bufandas otoñales, camisas veraniegas de manga corta con gafas de sol polarizadas y trajes pastel con flores Sakura.",
+    "Sincronización Hot-Swap instantánea al cambiar de atmósfera en cualquier momento."
   ]
 }
