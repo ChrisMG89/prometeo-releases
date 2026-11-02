@@ -1,14 +1,14 @@
 {
-  "version": "3.6.2",
-  "versionCode": 362,
+  "version": "3.6.3",
+  "versionCode": 363,
   "releaseDate": "2026-11-02",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-  "name": "Prometeo Pet Feeder Real-Time Telemetry & Awareness Suite",
+  "name": "Prometeo Halloween Dynamic Feline Hunting & Bat Interception Suite",
   "changelog": [
-    "Telemetría y Monitorización Continua en Tiempo Real del Comedero Inteligente de Mascotas (NEXUS & Tuya v3.5).",
-    "Detección proactiva de comidas autónomas de Loki y Flo con registro automático en memoria episódica (CHRONICLE) y Activity Feed.",
-    "Conciencia y Consultas Vocales/Chat: Prometeo ahora responde con precisión si han comido, a qué hora y cuántas dosis se sirvieron."
+    "Sistema de Caza Felina Realista: El gato negro ahora calcula con exactitud las trayectorias rasantes y altitud relativa de los murciélagos en móvil y PC.",
+    "Mecánica de Captura y Celebración (Triumph): Al alcanzar al murciélago con sus garras, lo atrapa bajo sus patas jugando con él antes de liberarlo al cielo nocturno.",
+    "Murciélagos Dinámicos con Vuelo Rasante y Picados: Los murciélagos descienden en picado desafiando al felino a saltar y cazar activamente."
   ]
 }
