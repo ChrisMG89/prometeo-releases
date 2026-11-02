@@ -2,11 +2,14 @@
   "version": "3.5.4",
   "versionCode": 354,
   "releaseDate": "2026-11-02",
+  "mandatory": false,
+  "githubRepo": "ChrisMG89/prometeo-releases",
+  "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "name": "Prometeo HUD & Physics Suite",
   "changelog": [
-    "Centro de Operaciones táctico: corrección integral del auto-scroll y fijación de tarjetas con min-h-0 y overflow-anchor: none.",
-    "Gorro navideño de terciopelo cuántico: iluminación reforzada, rojo carmesí festivo ultrabrillante y retrodispersión microfibrosa sheen.",
-    "Taller LEGO: Maestro, Herald y Midas reposicionados sin colisión en el Tuner Lounge.",
-    "Flo: descenso suave y despejado por el poste de sisal sin atravesar la cueva ni la base."
+    "Físicas reales de cuajado y acumulación de nieve en pantalla (manto inferior, ventisqueros en esquinas y domo sobre el núcleo).",
+    "Centro de Operaciones táctico: fijación contra auto-scroll con min-h-0 y overflow-anchor: none.",
+    "Gorro de terciopelo cuántico: iluminación reforzada y carmesí vivo.",
+    "Taller LEGO: Maestro, Herald y Midas reposicionados sin colisión."
   ]
 }
