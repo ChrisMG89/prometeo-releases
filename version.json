@@ -1,15 +1,15 @@
 {
-  "version": "3.5.1",
-  "versionCode": 351,
+  "version": "3.5.2",
+  "versionCode": 352,
   "releaseDate": "2026-11-02",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "changelog": [
-    "Halloween 3D Wonderland: Jack-o'-lanterns parpadeantes, caldero de poción burbujeante y murciélagos aleteando",
-    "Núcleo Cuántico Festivo: Gorro de Papá Noel (Navidad) y Sombrero de Bruja (Halloween) con física pendular",
-    "Flo con IA autónoma completa: baja de su árbol rascador, pasea por la sede, amasa, descansa en sofás/alfombras y escala su torre",
-    "Lluvia atmosférica cinemática con condensación en cristales y coches Technic Supra & Skyline",
-    "Navidad 3D con nieve real Three.js y abeto LEGO iluminado"
+    "Gorro de Terciopelo Cuántico: Malla drapeada con arrugas gravitatorias, shader Charlie Sheen BRDF y pompón pendular Verlet",
+    "Física de Nieve: Cuajado progresivo, montículos orgánicos (snowdrifts) en esquinas/alféizares y fusión térmica",
+    "Física de Tormentas: Ruptura dieléctrica fractal 3D, retardo acústico del trueno (343 m/s), síntesis espectral y sacudida sísmica de cámara",
+    "Halloween 3D Wonderland y Flo con IA autónoma y vida propia en toda la sede",
+    "Coches Technic Supra & Skyline reconstruidos con escala longitudinal"
   ]
 }
