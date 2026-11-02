@@ -1,15 +1,14 @@
 {
-  "version": "3.5.7",
-  "versionCode": 357,
+  "version": "3.5.8",
+  "versionCode": 358,
   "releaseDate": "2026-11-02",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-  "name": "Prometeo Witch Draped Hat & Annual Cycle Suite",
+  "name": "Prometeo Witch Hat Framing & LEGO ABS Materials Update",
   "changelog": [
-    "Sombrero de bruja gótico con drapeado físico orgánico (ala ondulada con caída asimétrica, copa arrugada en espiral y terciopelo amatista).",
-    "Halloween enriquecido: Bruja en escoba voladora con estela de chispas, gato negro sigiloso con cola sinuosa y murciélagos a escala real con membranas góticas.",
-    "Ciclo cronológico anual completo: Prometeo -> Primavera (Sakura) -> Verano (Luciérnagas) -> Otoño -> Halloween -> Navidad -> Lluvia -> Alerta Roja.",
-    "Botón directo de atmósfera en barra flotante superior (DynamicHUDIsland)."
+    "Ajuste de encuadre y curvatura gótica del Sombrero de Bruja en el Reactor Cuántico (punta completa visible sin recorte de cámara).",
+    "Eliminada duplicidad de malla previa de sombrero rígido en el núcleo cuántico.",
+    "Fidelidad de materiales LEGO Speed Champions: plástico ABS no metálico (metalness 0.0) y acabado glossy fiel a los sets 76917 (Skyline GT-R) y 77260 (Supra MK4)."
   ]
 }
