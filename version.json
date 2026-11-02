@@ -1,15 +1,15 @@
 {
-  "version": "3.5.6",
-  "versionCode": 356,
+  "version": "3.5.7",
+  "versionCode": 357,
   "releaseDate": "2026-11-02",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-  "name": "Prometeo Spooky Bats & Tactical Red Alert",
+  "name": "Prometeo Witch Draped Hat & Annual Cycle Suite",
   "changelog": [
-    "Halloween completamente diferenciado de Alerta Roja: Murciélagos aleteantes articulados y fuegos fatuos/ectoplasma púrpura y verde brujería.",
-    "Alerta Roja enriquecida con pulso táctico perimetral escarlata intermitente (DEFCON 1) y brasas incandescentes de combate.",
-    "Corrección y limpieza de buffers de versión.",
-    "Reflejo canino de sacudida ('dog-shake') y selector determinista de atmósfera."
+    "Sombrero de bruja gótico con drapeado físico orgánico (ala ondulada con caída asimétrica, copa arrugada en espiral y terciopelo amatista).",
+    "Halloween enriquecido: Bruja en escoba voladora con estela de chispas, gato negro sigiloso con cola sinuosa y murciélagos a escala real con membranas góticas.",
+    "Ciclo cronológico anual completo: Prometeo -> Primavera (Sakura) -> Verano (Luciérnagas) -> Otoño -> Halloween -> Navidad -> Lluvia -> Alerta Roja.",
+    "Botón directo de atmósfera en barra flotante superior (DynamicHUDIsland)."
   ]
 }
