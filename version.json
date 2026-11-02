@@ -1,15 +1,15 @@
 {
-  "version": "3.5.5",
-  "versionCode": 355,
+  "version": "3.5.6",
+  "versionCode": 356,
   "releaseDate": "2026-11-02",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-  "name": "Prometeo Dog-Shake Reflex & Halloween Cycle",
+  "name": "Prometeo Spooky Bats & Tactical Red Alert",
   "changelog": [
-    "Mecánica canina de sacudida ('dog-shake reflex') en el núcleo y gorro de Navidad ante acumulación máxima de nieve.",
-    "Atenuación suave y progresiva del cuajado de nieve (50% más lento, natural y sin domos 2D invasivos).",
-    "Ciclo dinámico y botón de Halloween (🎃 HALLOWEEN) integrado en selector de atmósfera de la Sede y Servidor.",
-    "Turbulencias eólicas bidireccionales y aleteo natural para hojas de otoño (vórtices senoidales de viento)."
+    "Halloween completamente diferenciado de Alerta Roja: Murciélagos aleteantes articulados y fuegos fatuos/ectoplasma púrpura y verde brujería.",
+    "Alerta Roja enriquecida con pulso táctico perimetral escarlata intermitente (DEFCON 1) y brasas incandescentes de combate.",
+    "Corrección y limpieza de buffers de versión.",
+    "Reflejo canino de sacudida ('dog-shake') y selector determinista de atmósfera."
   ]
 }
