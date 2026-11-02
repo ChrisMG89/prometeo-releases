@@ -1,14 +1,15 @@
 {
-  "version": "3.5.0",
-  "versionCode": 350,
+  "version": "3.5.1",
+  "versionCode": 351,
   "releaseDate": "2026-11-02",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "changelog": [
-    "Lluvia atmosférica cinemática: gotas de agua resbalando por los cristales, vaho y condensación",
-    "Loki y Flo con navegación A* anti-colisión con paredes y cristales",
-    "Coches LEGO Technic #42204 Supra Mk4 y #42210 Skyline R34 reconstruidos longitudinalmente",
-    "Navidad 3D con nieve real Three.js, árbol y muñeco de nieve LEGO"
+    "Halloween 3D Wonderland: Jack-o'-lanterns parpadeantes, caldero de poción burbujeante y murciélagos aleteando",
+    "Núcleo Cuántico Festivo: Gorro de Papá Noel (Navidad) y Sombrero de Bruja (Halloween) con física pendular",
+    "Flo con IA autónoma completa: baja de su árbol rascador, pasea por la sede, amasa, descansa en sofás/alfombras y escala su torre",
+    "Lluvia atmosférica cinemática con condensación en cristales y coches Technic Supra & Skyline",
+    "Navidad 3D con nieve real Three.js y abeto LEGO iluminado"
   ]
 }
