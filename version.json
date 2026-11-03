@@ -1,14 +1,14 @@
 {
-  "version": "3.6.4",
-  "versionCode": 364,
-  "releaseDate": "2026-11-02",
+  "version": "3.7.0",
+  "versionCode": 370,
+  "releaseDate": "2026-11-03",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-  "name": "Prometeo True Autonomous Seasonal Mode & Explicit Theme Cycle Suite",
+  "name": "Prometeo First-Person Exploration Suite (Fase 1: POV Christian)",
   "changelog": [
-    "Modo Automático Estacional Explícito: Nueva píldora visible en móvil y PC con distintivo '🌐 AUTO · HALLOWEEN' y sincronización en tiempo real.",
-    "Ciclo Completo de Atmósferas: Alternancia clara entre el Modo Automático y cada uno de los temas manuales con retorno transparente a Auto.",
-    "Persistencia Autónoma: El backend y el frontend inician y permanecen en Modo Automático por defecto, adaptándose a cada festividad del calendario."
+    "Modo Primera Persona (POV Christian): Explora la Sede y el Taller caminando a pie de suelo con la camara subjetiva de tu personaje.",
+    "Controles de Inmersion: Movimiento con WASD, giro panoramico con raton/deslizamiento tactil y cruceta tactil en movil.",
+    "Deteccion y Colision A*: Sistema de colisiones por NavGrid que respeta paredes, puertas y muebles en tiempo real."
   ]
 }
