@@ -1,14 +1,14 @@
 {
-  "version": "3.7.0",
-  "versionCode": 370,
+  "version": "3.7.1",
+  "versionCode": 371,
   "releaseDate": "2026-11-03",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-  "name": "Prometeo First-Person Exploration Suite (Fase 1: POV Christian)",
+  "name": "Prometeo Visual Hyperrealism Suite (Fase 2: PBR & ACES Filmic)",
   "changelog": [
-    "Modo Primera Persona (POV Christian): Explora la Sede y el Taller caminando a pie de suelo con la camara subjetiva de tu personaje.",
-    "Controles de Inmersion: Movimiento con WASD, giro panoramico con raton/deslizamiento tactil y cruceta tactil en movil.",
-    "Deteccion y Colision A*: Sistema de colisiones por NavGrid que respeta paredes, puertas y muebles en tiempo real."
+    "Materiales PBR Cinematográficos: Barniz satinado de doble capa (Clearcoat) en maderas y escritorios de cristal.",
+    "Cristal Físico con Refracción (MeshPhysicalMaterial): Cristaleras con índice de refracción IOR 1.52, transmisión lumínica y dispersión.",
+    "Tone Mapping ACES Filmic: Calibración de color de estándar de cine y sombras de contacto suavizadas (PCFSoftShadowMap)."
   ]
 }
