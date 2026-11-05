@@ -1,7 +1,7 @@
 {
-  "tunnelUrl": "https://lake-webshots-alice-pond.trycloudflare.com",
-  "wsUrl": "wss://lake-webshots-alice-pond.trycloudflare.com",
+  "tunnelUrl": "https://fleet-cohen-highways-reasonable.trycloudflare.com",
+  "wsUrl": "wss://fleet-cohen-highways-reasonable.trycloudflare.com",
   "lanIp": "192.168.0.173",
   "lanUrl": "http://192.168.0.173:8000",
-  "updatedAt": "2026-11-05T19:48:11.473183+00:00"
+  "updatedAt": "2026-11-05T19:48:37.747451+00:00"
 }
