@@ -1,7 +1,8 @@
 {
-  "tunnelUrl": "https://fireplace-single-fit-inquire.trycloudflare.com",
-  "wsUrl": "wss://fireplace-single-fit-inquire.trycloudflare.com",
-  "lanIp": "192.168.0.173",
-  "lanUrl": "http://192.168.0.173:8000",
+  "v": 2,
+  "alg": "HS256-CTR",
+  "iv": "g9kReYvggk7uKFxRp2GzAw==",
+  "ciphertext": "a0i1yNnbckbcUUgAYL8mOmFj/2T3fHGPdVsEaEApftmo5fmWIzHGEWaarz6uG5o0nEfP9a4ljxKfRSdFQXQkjQpUmOweUse+qdyPF1G0UsZ13t+RWE/VKefClW4CLdiUq/rbWTC2xKZZymtyq+FpQTJEnRgFWAuYW1ZW1//GYkAQOHpk0s+y1hrPxLBRaWFJS1sfnCGGSkI1Shd28oIttRo4KZHSCIPkMJPbX9mYgB1PF9zjdioDbpL5s6+dLNeZ5zbHOeGJMV9l2zLVuHkS8ePuzCR0GRKoEiA9wKardqF7FduyVkRFbNXVdQJNMQfgtg==",
+  "mac": "b8fc892af70066e0413314d8afe9e3571429e3ae0aa4558e48175a9c968b7e50",
   "updatedAt": "2026-11-05T20:47:55.398638+00:00"
 }
