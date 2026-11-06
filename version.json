@@ -1,14 +1,14 @@
 {
-  "version": "3.7.1",
-  "versionCode": 371,
+  "version": "3.8.0",
+  "versionCode": 380,
   "releaseDate": "2026-11-03",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
-  "name": "Prometeo Visual Hyperrealism Suite (Fase 2: PBR & ACES Filmic)",
+  "name": "Prometeo Visual Universe Switcher Suite (LEGO vs REALISTIC HQ)",
   "changelog": [
-    "Materiales PBR Cinematográficos: Barniz satinado de doble capa (Clearcoat) en maderas y escritorios de cristal.",
-    "Cristal Físico con Refracción (MeshPhysicalMaterial): Cristaleras con índice de refracción IOR 1.52, transmisión lumínica y dispersión.",
-    "Tone Mapping ACES Filmic: Calibración de color de estándar de cine y sombras de contacto suavizadas (PCFSoftShadowMap)."
+    "Selector de Universo Visual: Conmutador en cabecera entre el universo LEGO procedural y el universo REALISTA HQ (office_hq.glb).",
+    "Carga Dinamica de Modelos GLTF: Arquitectura modular que instancia modelos 3D de alta gama sin sobrecargar memoria.",
+    "Compatibilidad Total con Primera Persona: Explora tanto en maqueta LEGO como en la Oficina Ejecutiva Realista caminando libremente."
   ]
 }
