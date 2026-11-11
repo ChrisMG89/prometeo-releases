@@ -1,14 +1,15 @@
 {
-  "version": "3.8.0",
-  "versionCode": 380,
-  "releaseDate": "2026-11-03",
+  "version": "3.8.1",
+  "versionCode": 381,
+  "releaseDate": "2026-11-11",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
   "name": "Prometeo Visual Universe Switcher Suite (LEGO vs REALISTIC HQ)",
   "changelog": [
-    "Selector de Universo Visual: Conmutador en cabecera entre el universo LEGO procedural y el universo REALISTA HQ (office_hq.glb).",
-    "Carga Dinamica de Modelos GLTF: Arquitectura modular que instancia modelos 3D de alta gama sin sobrecargar memoria.",
-    "Compatibilidad Total con Primera Persona: Explora tanto en maqueta LEGO como en la Oficina Ejecutiva Realista caminando libremente."
+    "Corrección del apagado real del sistema con shutdown seguro de Windows y auditoría diaria del evento.",
+    "Registro diario operativo por sesión y limpieza automática de temporales de audio y respuesta.",
+    "Lluvia móvil mejorada con deriva, inclinación variable y gotas con movimiento más natural que no caen siempre en la misma dirección.",
+    "Ajuste de estabilidad visual para móvil sin perder identidad visual ni rendimiento excesivo."
   ]
 }
