@@ -1,6 +1,7 @@
 {
   "version": "3.8.1",
   "versionCode": 381,
+  "apkSizeBytes": 231416290,
   "releaseDate": "2026-11-11",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
