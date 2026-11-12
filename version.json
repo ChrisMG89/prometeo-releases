@@ -1,15 +1,15 @@
 {
-  "version": "3.9.1",
-  "versionCode": 391,
+  "version": "3.9.2",
+  "versionCode": 392,
   "releaseDate": "2026-11-12",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://github.com/ChrisMG89/prometeo-releases/raw/main/PROMETEO_Android.apk",
   "name": "Prometeo Conversaciones Persistentes Suite",
   "changelog": [
-    "Área segura móvil: el chat maximizado deja libres los indicadores superiores y recortes de pantalla.",
-    "Controles accesibles: historial, restaurar y cerrar quedan fuera de la barra de estado.",
-    "Bordes protegidos: se reserva espacio para navegación inferior y laterales."
+    "Área segura inferior: reserva al menos 48 px para navegación gestual o de tres botones.",
+    "Insets de Android: respeta dinámicamente el espacio real de la barra y los recortes.",
+    "Chat maximizado: la zona de entrada queda sobre la navegación del sistema."
   ],
-  "apkSizeBytes": 230278512
+  "apkSizeBytes": 230278496
 }
