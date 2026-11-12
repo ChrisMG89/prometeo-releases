@@ -1,16 +1,15 @@
 {
-  "version": "3.8.1",
-  "versionCode": 381,
-  "apkSizeBytes": 231416290,
-  "releaseDate": "2026-11-11",
+  "version": "3.9.0",
+  "versionCode": 390,
+  "releaseDate": "2026-11-12",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "downloadUrl": "https://github.com/ChrisMG89/prometeo-releases/raw/main/PROMETEO_Android.apk",
-  "name": "Prometeo Visual Universe Switcher Suite (LEGO vs REALISTIC HQ)",
+  "name": "Prometeo Conversaciones Persistentes Suite",
   "changelog": [
-    "Corrección del apagado real del sistema con shutdown seguro de Windows y auditoría diaria del evento.",
-    "Registro diario operativo por sesión y limpieza automática de temporales de audio y respuesta.",
-    "Lluvia móvil mejorada con deriva, inclinación variable y gotas con movimiento más natural que no caen siempre en la misma dirección.",
-    "Ajuste de estabilidad visual para móvil sin perder identidad visual ni rendimiento excesivo."
-  ]
+    "Historial de conversaciones: guarda, reabre, renombra y elimina tus chats.",
+    "Contexto por conversación: PROMETEO retoma cada chat de forma independiente.",
+    "Chat adaptable: maximiza la ventana y restaura su tamaño flotante."
+  ],
+  "apkSizeBytes": 230278412
 }
