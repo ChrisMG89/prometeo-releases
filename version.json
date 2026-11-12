@@ -5,7 +5,7 @@
   "releaseDate": "2026-11-11",
   "mandatory": false,
   "githubRepo": "ChrisMG89/prometeo-releases",
-  "downloadUrl": "https://raw.githubusercontent.com/ChrisMG89/prometeo-releases/main/PROMETEO_Android.apk",
+  "downloadUrl": "https://github.com/ChrisMG89/prometeo-releases/raw/main/PROMETEO_Android.apk",
   "name": "Prometeo Visual Universe Switcher Suite (LEGO vs REALISTIC HQ)",
   "changelog": [
     "Corrección del apagado real del sistema con shutdown seguro de Windows y auditoría diaria del evento.",
