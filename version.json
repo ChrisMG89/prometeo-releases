@@ -1,15 +1,15 @@
 {
-    "version":  "3.9.3",
-    "mandatory":  false,
-    "name":  "Prometeo Visual FX Suite",
-    "downloadUrl":  "https://github.com/ChrisMG89/prometeo-releases/raw/main/PROMETEO_Android.apk",
-    "releaseDate":  "2026-11-14",
-    "versionCode":  393,
-    "githubRepo":  "ChrisMG89/prometeo-releases",
-    "changelog":  [
-                      "Hojas de otono fotorrealistas: 4 morfologias bezier (arce, roble, corazon, lanceolada), gradiente bicolor, venas/nervios, volteo 3D, profundidad de campo.",
-                      "Lluvia fotorrealista: gotas lagrima con bezier segun intensidad, rivulets con trazo continuo curvo y brillos especulares.",
-                      "Nieve fotorrealista: 3 tipos de copo (cristalino 6/4 brazos, esfera con halo, microparticula difusa).",
-                      "Fix musica: las favoritas ya no son interrumpidas por la radio del backend."
-                  ]
+  "version": "3.9.4",
+  "mandatory": false,
+  "name": "Prometeo Visual FX Suite",
+  "downloadUrl": "https://github.com/ChrisMG89/prometeo-releases/raw/main/PROMETEO_Android.apk",
+  "releaseDate": "2026-11-15",
+  "versionCode": 394,
+  "githubRepo": "ChrisMG89/prometeo-releases",
+  "changelog": [
+    "Agente logistico HERMES para suministro y rotacion de catalogo",
+    "Avatares LEGO 3D de DEALS y HERMES en la Sede",
+    "Endpoint para forzar publicacion en Instagram",
+    "Validacion de fechas y cronologia autoritativa"
+  ]
 }
