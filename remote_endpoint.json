@@ -1,8 +1,8 @@
 {
   "v": 2,
   "alg": "HS256-CTR",
-  "iv": "4XddfCC1XPUs5VL4D7PS7g==",
-  "ciphertext": "isP6OUr74f1AqE3RDGappbGL/qSJCU+ooTUkmtGiKmNPN4jkmDWJdvCQYRbmuCtovvV8WVRaO1P7eTktosZC/pGdED/6RTUb8VPWf1RTdIdeazJ/iaGsRiJYBj9tjJGruMhjl9Se0T6o/RtakDTrGW4VVyp74JNn3rXmvhGlruWocyurtBaaVcOLKG3kcJn3INESt0YtGKiTZgFub4Ja9SiPJGwvZH18uu8mz7dBgZtwV6R7kfCiBD49/njy1eQWGiCCI41v8fteG+6vALW87pV4qBs1QFDqNNFq6S/c0UY+8NCEbweqYtCM3W3B6Ud0Fg==",
-  "mac": "57bbbf89eadd62c082b40a4aae93e0c5833568620b746a204fe62748e3cd1980",
-  "updatedAt": "2026-11-18T22:01:24.046396+00:00"
+  "iv": "smbELjy2MlMatiFUpFr2bw==",
+  "ciphertext": "A1lLvaheAtBh+kdJCe1G23VgKM4IyCnRXccEyTxEo5sNFY1W+zo/YXPVueKKnexqJBk7VMm+jBt8g5V/RiqFb0hDi0LEy/BqfeObPGGcu8qXanNaz8CCbXds+6YOvx/qR7cgwNs4SELiIaqYQsjKAlJw7XY5FVZr/iMLg6j82GKRqcL4Ns+7iZQRTM2G2iU4Rby4f0tIaHkGmexXQE1gAqLTMmI/hjNtvFDszROCP63WpnUv0esA2o+uuTHwn/V+6i6iEEiT0B3oOCupnKHqbOR9p2y9XL0SgGF7BsEFgA9ZGD9IUuv7AwLCez8ImhppcQvUV4UTdRTEspsdirl1BRc=",
+  "mac": "86726b95c5f0c5be6ce833998b129894dc40b9d9c62dec8502bd91230e655fab",
+  "updatedAt": "2026-11-19T07:57:20.443659+00:00"
 }
