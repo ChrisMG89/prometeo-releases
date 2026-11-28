@@ -1,15 +1,15 @@
 {
-  "version": "3.9.4",
+  "version": "3.9.5",
   "mandatory": false,
   "name": "Prometeo Visual FX Suite",
-  "downloadUrl": "https://github.com/ChrisMG89/prometeo-releases/raw/main/PROMETEO_Android.apk",
-  "releaseDate": "2026-11-15",
-  "versionCode": 394,
+  "downloadUrl": "https://github.com/ChrisMG89/prometeo-releases/releases/download/v3.9.5/PROMETEO_Android.apk",
+  "releaseDate": "2026-11-28",
+  "versionCode": 395,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "changelog": [
-    "Agente logistico HERMES para suministro y rotacion de catalogo",
-    "Avatares LEGO 3D de DEALS y HERMES en la Sede",
-    "Endpoint para forzar publicacion en Instagram",
-    "Validacion de fechas y cronologia autoritativa"
+    "Parqué Pixel-Art Trading 7-Roles y Gráfica 7D",
+    "Respaldo Binance 429",
+    "AliExpress Portals EUR",
+    "Vision QA KDP mejorado"
   ]
 }
