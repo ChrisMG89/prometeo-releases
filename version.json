@@ -1,15 +1,16 @@
 {
-  "version": "3.9.5",
+  "version": "3.9.6",
   "mandatory": false,
   "name": "Prometeo Visual FX Suite",
-  "downloadUrl": "https://github.com/ChrisMG89/prometeo-releases/releases/download/v3.9.5/PROMETEO_Android.apk",
+  "downloadUrl": "https://github.com/ChrisMG89/prometeo-releases/releases/download/v3.9.6/PROMETEO_Android.apk",
   "releaseDate": "2026-11-28",
-  "versionCode": 395,
+  "versionCode": 396,
   "githubRepo": "ChrisMG89/prometeo-releases",
   "changelog": [
+    "Fix bucle OTA UpdateModal (lectura directa de GitHub Releases)",
     "Parqué Pixel-Art Trading 7-Roles y Gráfica 7D",
     "Respaldo Binance 429",
-    "AliExpress Portals EUR",
-    "Vision QA KDP mejorado"
-  ]
+    "AliExpress Portals EUR"
+  ],
+  "githubReleaseUrl": "https://github.com/ChrisMG89/prometeo-releases/releases/download/v3.9.6/PROMETEO_Android.apk"
 }
